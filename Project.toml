@@ -1,0 +1,4 @@
+name = "sciml"
+uuid = "a44ffaf2-c984-4e1d-a8d5-f0913e3a5242"
+authors = ["Xinyu Chen <xinyu_0413@hotmail.com>"]
+version = "0.1.0"

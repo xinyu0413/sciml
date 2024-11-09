@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"api/#API-Reference","page":"API Reference","title":"API Reference","text":"","category":"section"},{"location":"api/","page":"API Reference","title":"API Reference","text":"Modules = [sciml]","category":"page"},{"location":"api/#sciml.greet-Tuple{}","page":"API Reference","title":"sciml.greet","text":"Here is the documentation to my functions and methods.\n\n\n\n\n\n","category":"method"},{"location":"#Notes-on-learning-Artificial-Intelligence","page":"Introduction","title":"Notes on learning Artificial Intelligence","text":"","category":"section"},{"location":"#","page":"Introduction","title":"","text":"","category":"section"},{"location":"#-2","page":"Introduction","title":"","text":"","category":"section"}]
+}

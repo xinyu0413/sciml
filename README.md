@@ -2,4 +2,6 @@
 
 Notes of learning machine learning/artificial intelligence.
 
-## Multi Layer
+## Multi Layer Percepton
+
+Autoencoder
